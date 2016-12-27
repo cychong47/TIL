@@ -1,6 +1,4 @@
-3GPP Security
-
-3GPP Security
+# 3GPP Security
 
 NAS Security, AS Security
 =========================
