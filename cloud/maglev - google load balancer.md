@@ -54,3 +54,5 @@
 	* Consistent hashing for minimize disruption in member changes  
 	* Maglev hashing - load balancing and minimal disruption on member changes    
 
+# reference  
+* goodd explanation https://blog.acolyer.org/2016/03/21/maglev-a-fast-and-reliable-software-network-load-balancer/
