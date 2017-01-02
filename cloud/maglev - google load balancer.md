@@ -38,8 +38,8 @@
 
 ### Backend Selection  
 * Consistent Hashing distribute loads 
-* Record selection in **local** connection tracking table  
-        * Connection tracking table is not shared with another Maglev
+* Record selection in **LOCAL connection tracking table**  
+        * Connection tracking table is **not shared** with another Maglev
 	* Does not guarantee consistency on Maglev or Service EndPoint Changes(add/delete)
 * For different traffic type
         * TCP SYN : select Backend and record it in connection tracking table
@@ -54,8 +54,3 @@
 	* Consistent hashing for minimize disruption in member changes
 	* Maglev hashing  
 
-
-
-# (Local) Connection Tracking Table  
-* Once Service EndPoint is selected for a specific session, it is stored in Maglev's local connection tracking table  
-* 
