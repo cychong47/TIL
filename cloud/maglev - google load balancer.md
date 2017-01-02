@@ -55,6 +55,6 @@
 	* Maglev hashing - load balancing and minimal disruption on member changes    
 
 # reference  
-* [Maglev: A Fast and Reliable Software Network Load Balancer])https://blog.acolyer.org/2016/03/21/maglev-a-fast-and-reliable-software-network-load-balancer/)
+* [Maglev: A Fast and Reliable Software Network Load Balancer](https://blog.acolyer.org/2016/03/21/maglev-a-fast-and-reliable-software-network-load-balancer/)
 * [Consistent Hashing](http://blog.carlosgaldino.com/consistent-hashing.html)
 * [The Simple Magic of Consistent Hashing](https://dzone.com/articles/simple-magic-consistent)
