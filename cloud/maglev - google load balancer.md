@@ -1,6 +1,6 @@
 # Maglev 
 * Google( https://research.google.com/pubs/pub44824.html )
-* Used from 2008  
+* Used in Google Cloud since 2008  
 * Scalable load balancer
 	* Consistent hashing 
 	* Connection Tracking 
