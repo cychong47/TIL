@@ -22,4 +22,4 @@
 # reference
 * [How GitHub Designed its New Load Balancer](https://www.infoq.com/news/2016/09/github-load-balancer-design)
 * [Introducing the GitHub Load Balancer](http://githubengineering.com/introducing-glb/)
-  
+* [GLB part 2: HAProxy zero-downtime, zero-delay reloads with multibinder](http://githubengineering.com/glb-part-2-haproxy-zero-downtime-zero-delay-reloads-with-multibinder/)
