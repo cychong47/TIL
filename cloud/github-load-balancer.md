@@ -11,6 +11,7 @@
 * Three tier (L4/L7 split strategy)
   * L4(IP source, destination and TCP port)
   * L7(information in application layer usually HTTP)
+* UDP tunneling is used between L4 and L7 node
 
 ## How to handle L7 node changes
 * Variant of Rendezvous hashing : consistent hashing - an algorithm that allows director nodes to agree on which proxy should handle a connection. 
