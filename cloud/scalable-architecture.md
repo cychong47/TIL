@@ -16,3 +16,5 @@ Thrift is a software framework for scalable cross-language services development.
 * MySQL -> Performance issue
 
 Instead, Apache Zookeeper  
+
+[20 Software Scalability Questions & Answers for Architect Interview](http://www.fromdev.com/2013/07/architect-interview-questions-and-answers.html)
