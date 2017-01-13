@@ -14,5 +14,9 @@
 * Availability  
 * Partition Tolerance  
 
+
+
+
+
 * Direct Server Return(DSR)  
 * Raid 0 : 완전 이중화 
