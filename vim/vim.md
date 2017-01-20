@@ -22,3 +22,6 @@ if !filereadable(vimplug_exists)
   autocmd VimEnter * PlugInstall
 endif
 ```
+
+# Reference
+https://github.com/avelino/vim-bootstrap#installation
