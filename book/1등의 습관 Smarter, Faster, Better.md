@@ -1,16 +1,9 @@
 ---
-date: 2018-09-03 
-title: '1등의 습관 Smart, Faster, Better'
-categories:
-- book
-tags: 
-- inspiration
-- book
+date: "2018-09-03T00:00:00.000Z" 
+title: "1등의 습관 Smart, Faster, Better"
+categories: "book"
+tags: [ "inspiration", "book"]
 ---
-
-# 1등의 습관 Smarter, Faster, Better
-#book
-
 
 ## Motivation
 
